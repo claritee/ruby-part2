@@ -8,7 +8,7 @@ This tutorial is aimed for beginners to Ruby.
 
 ##Tutorial Guide
 
-The corresponding tutorial: TODO
+The corresponding tutorial: http://tinyurl.com/wwc-ruby-101-part2
 
 ##Setup
 
